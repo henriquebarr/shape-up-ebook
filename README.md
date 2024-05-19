@@ -8,4 +8,4 @@
 
 ---
 
-[English version](/en/00.00-Shape-Up.md)
+[English version](/en/0.0-shape-up.md)
