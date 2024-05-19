@@ -4,8 +4,8 @@
 
 ---
 
-### [Foreword by Jason Fried](00-Foreword.md)
-### [Acknowledgements](00-Acknowledgements.md)
+### [Foreword by Jason Fried](00.00-Foreword.md)
+### [Acknowledgements](00.01-Acknowledgements.md)
 
 *CHAPTER 1*
 ### [Introduction](01-Introduction.md)
@@ -169,7 +169,7 @@ Let the storm pass
 Stay debt-free
 Feedback needs to be shaped
 
-### [Conclusion](00-Conclusion.md)
+### [Conclusion](16-Conclusion.md)
 Key concepts
 Get in touch
 
@@ -177,24 +177,24 @@ Get in touch
 
 ## Appendices
 
-### [How to Implement Shape Up in Basecamp](00-How-to-Implement-Shape-Up-in-Basecamp.md)
+### [How to Implement Shape Up in Basecamp](17-How-to-Implement-Shape-Up-in-Basecamp.md)
 A Basecamp Team for shaping
 Basecamp Projects for cycle projects
 To-Do Lists for scopes
 Track scopes on the Hill Chart
 
-### [Adjust to Your Size](00-Adjust-to-Your-Size.md)
+### [Adjust to Your Size](18-Adjust-to-Your-Size.md)
 Basic truths vs. specific practices
 Small enough to wing it
 Big enough to specialize
 
-### [How to Begin to Shape Up](00-How-to-Begin-to-Shape-Up.md)
+### [How to Begin to Shape Up](19-How-to-Begin-to-Shape-Up.md)
 Option A: One six-week experiment
 Option B: Start with shaping
 Option C: Start with cycles
 Fix shipping first
 Focus on the end result
 
-### [Glossary](00-Glossary.md)
+### [Glossary](20-Glossary.md)
 
-### [About the Author](00-About-the-Author.md)
+### [About the Author](21-About-the-Author.md)
