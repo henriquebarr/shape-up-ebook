@@ -9,3 +9,7 @@
 ---
 
 [English version](/en/0.0-shape-up.md)
+
+---
+
+Copyright ©1999-2024 [37signals](https://37signals.com/) LLC. All rights reserved.
