@@ -8,8 +8,8 @@
 
 ---
 
-[English version](/en/0.0-shape-up.md)
-[Portuguese version - WIP]()
+- [English version](/en/0.0-shape-up.md)
+- [Portuguese version - WIP]()
 
 ---
 
