@@ -1,6 +1,6 @@
 # Map the Scopes
 
-![Cartoon. The same figure as in the last chapter stands beside the desk of another figure. Hands on hips, the first figure asks: So, how's the project coming? The figure on the right points to a monitor with a map drawn. The map outlines territories, some of them with checkmarks inside. A speech bubble says: 'Compose' and 'Store' are working. We're starting 'Send' now.](intro_cartoon-bfdfe5579c42a0dc27591d343ab109d5d37f3fa94eb9b06266ee7b62f414b518.png)
+![Cartoon. The same figure as in the last chapter stands beside the desk of another figure. Hands on hips, the first figure asks: So, how's the project coming? The figure on the right points to a monitor with a map drawn. The map outlines territories, some of them with checkmarks inside. A speech bubble says: 'Compose' and 'Store' are working. We're starting 'Send' now.](assets/intro_cartoon-bfdfe5579c42a0dc27591d343ab109d5d37f3fa94eb9b06266ee7b62f414b518.png)
 
 In the previous chapter, we started the project by finishing one integrated slice early on. That practice belongs to a more general technique that the team can use throughout the project.
 
@@ -20,23 +20,23 @@ We call these integrated slices of the project `scopes`. We break the overall sc
 
 Imagine an overhead view of the project. At the beginning, there’s just an outline from the shaping work that preceded the project. There aren’t any tasks or scopes yet.
 
-![Drawing: an enclosed vaguely circular outline with nothing inside.](map_outline-bd532edbcca0a1a71b7521d1303a4c500037254651c81e1e8a0487f7ce07446d.png)
+![Drawing: an enclosed vaguely circular outline with nothing inside.](assets/map_outline-bd532edbcca0a1a71b7521d1303a4c500037254651c81e1e8a0487f7ce07446d.png)
 
 When the team members take over the project, they start discovering tasks. Tasks are a natural starting point because they’re concrete and granular. It’s too early to organize them into higher level categories. It would be artificial to try and group them arbitrarily. It’s enough at the start just to capture a variety of things that need to happen.
 
-![Drawing: the same outline with a dozen tiny dots filling the space inside.](map_tasks-dfc44d0acf74e8dd1d76ad7be0cc05efb7ba31cd690da5bf45f1734405ba7eff.png)
+![Drawing: the same outline with a dozen tiny dots filling the space inside.](assets/map_tasks-dfc44d0acf74e8dd1d76ad7be0cc05efb7ba31cd690da5bf45f1734405ba7eff.png)
 
 But we don’t want to stay with this picture for long. It’s too low-level. There’s nothing visible from high altitude.
 
 As the team starts doing real work on the project they learn how the tasks are related and what the structure of the project is really like. Then they become able to factor the project into scopes. This is like dividing the map of the project into separate territories.
 
-![Drawing: the same outline now divided with boundary lines like states on a map. The regions are labeled: Field on Form, Preset Locations, Migrate Events, and Display on List.](map_scopes-ef077052fd1354c32a3b98ca4374e5acdec4854dd25f2f9144681e931acb6ef4.png)
+![Drawing: the same outline now divided with boundary lines like states on a map. The regions are labeled: Field on Form, Preset Locations, Migrate Events, and Display on List.](assets/map_scopes-ef077052fd1354c32a3b98ca4374e5acdec4854dd25f2f9144681e931acb6ef4.png)
 
 The scopes reflect the meaningful parts of the problem that can be completed independently and in a short period of time—a few days or less. They are bigger than tasks but much smaller than the overall project.
 
 The map is a mental image. In practice, we define and track the scopes as to-do lists. Each scope corresponds to a list name. Then any tasks for that scope go in that list.
 
-![A screenshot of to-do lists in Basecamp. The names of the to-do lists correspond to the regions on the map above. Each list has a few items below.](scopes_as_tasks-f2d2d388c1fef0554194b742b4f86a90c584d4fd39304b964f2e128ab6fbda92.png)
+![A screenshot of to-do lists in Basecamp. The names of the to-do lists correspond to the regions on the map above. Each list has a few items below.](assets/scopes_as_tasks-f2d2d388c1fef0554194b742b4f86a90c584d4fd39304b964f2e128ab6fbda92.png)
 
 ## The language of the project
 
@@ -48,23 +48,23 @@ When it’s time to report status, the team uses the language of scopes to expla
 
 A designer and programmer were building a feature to create and save drafts of messages in a new app. After kick-off, they identified a bunch of tasks they would need to do at some point.
 
-![On the left, an enclosed outline that represents the project with scattered dots inside. On the right, a to-do list named 'Unscoped' with ten seemingly unrelated tasks.](drafts_1-34f5a96e807ac206f0a3c1cd708a1ed553550480198d3dbd02e3f8f890c36100.png)
+![On the left, an enclosed outline that represents the project with scattered dots inside. On the right, a to-do list named 'Unscoped' with ten seemingly unrelated tasks.](assets/drafts_1-34f5a96e807ac206f0a3c1cd708a1ed553550480198d3dbd02e3f8f890c36100.png)
 
 As the end of the first week approached, they had completed some of the tasks, but there wasn’t anything to show for their work. In the spirit of “get one piece done” they focused on one key interaction they could integrate: creating a new draft.
 
 They called the new scope “Start New,” created a to-do list for it, and moved to-dos into it. There was only one design task left for them to consider this scope finished.
 
-![One region of the outlined space is marked with a boundary and labeled Start New. On the right, the to-do list is broken into two: a new list called Start New with three of the items from the prior list, and the remaining items below in the Unscoped list, which is three items shorter now. Two of the items in the Start New list are completed and one is outstanding.](drafts_2-89577b850eaa3053b9d335730a42d6bf7b66062b4ad5391e56307f9b928d79d2.png)
+![One region of the outlined space is marked with a boundary and labeled Start New. On the right, the to-do list is broken into two: a new list called Start New with three of the items from the prior list, and the remaining items below in the Unscoped list, which is three items shorter now. Two of the items in the Start New list are completed and one is outstanding.](assets/drafts_2-89577b850eaa3053b9d335730a42d6bf7b66062b4ad5391e56307f9b928d79d2.png)
 
 After finishing the one design task, the scope was complete.
 
-![The region that was labeled 'Start New' is now marked with a checkmark. On the right, the Start New to-do list is gone because all the items were completed and the Unscoped list remains.](drafts_3-304ea3ad4d86e8b46f1dff3ad048776a111c79d078adb50ba25cf3611276995b.png)
+![The region that was labeled 'Start New' is now marked with a checkmark. On the right, the Start New to-do list is gone because all the items were completed and the Unscoped list remains.](assets/drafts_3-304ea3ad4d86e8b46f1dff3ad048776a111c79d078adb50ba25cf3611276995b.png)
 
 The unscoped tasks that are left don’t represent all the work that remains. More tasks are going to be discovered as they start working on each of those. Still, there is enough variety in the work to tease out more scopes. The team was motivated to break out the scopes already at this point because they knew they wanted their efforts to add up to another visible piece being finished before long.
 
 Taking a look at the tasks that were left, they decided to pull out tasks related to finding the drafts into a new scope called Locate and the task for deleting into a scope called Trash. The work that was left all seemed related to saving and editing the draft, so they called that Save/Edit.
 
-![The map is now divided into three regions in addition to the checked off region: Trash, Locate, and Save/Edit. On the right, to-do lists corresponding to the same regions appear. Save/Edit has the most items. The Unscoped list is gone because of all its items have been distributed to the new lists.](drafts_4-1abbc8645f679d8db90f22ae2cc58e48f241a9a17f5c94555dc34ff64f2c5659.png)
+![The map is now divided into three regions in addition to the checked off region: Trash, Locate, and Save/Edit. On the right, to-do lists corresponding to the same regions appear. Save/Edit has the most items. The Unscoped list is gone because of all its items have been distributed to the new lists.](assets/drafts_4-1abbc8645f679d8db90f22ae2cc58e48f241a9a17f5c94555dc34ff64f2c5659.png)
 
 Take a look at the Locate scope. There’s only one task there right now. But surely there will be more work to do than just designing the index. When there are implementation tasks to do, that’s where they’ll go.
 
@@ -72,25 +72,25 @@ The designer started some work on Locate while the programmer focused on Save/Ed
 
 First she factored out the work related to sending the drafted message. She called that Send.
 
-![The Save/Edit region is further subdivided with a small region inside labeled Send. On the right, two items appear in a list called Send and the Save/Edit list is correspondingly shorter.](drafts_5-267e71f5dd4144e6e02d53e587e15ef5a434055f3d4a9eaefb6e0e3f1368c2ab.png)
+![The Save/Edit region is further subdivided with a small region inside labeled Send. On the right, two items appear in a list called Send and the Save/Edit list is correspondingly shorter.](assets/drafts_5-267e71f5dd4144e6e02d53e587e15ef5a434055f3d4a9eaefb6e0e3f1368c2ab.png)
 
 Finally, some of the remaining Save/Edit tasks were about storing information and one other was actually unrelated—it was a special case for handling drafts when replying to another message. She broke these out into two new scopes: Store and Reply.
 
-![The region formerly labeled Save/Edit is divided into two with a new boundary. The new two regions are named Store and Reply. On the right Store and Reply lists replace what used to be the Save/Edit list. There are now five regions depicted in the map illustration and five regions appearing as to-do lists: Send, Store, Reply, Trash, and Locate. Each list has between one and three items on it.](drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png)
+![The region formerly labeled Save/Edit is divided into two with a new boundary. The new two regions are named Store and Reply. On the right Store and Reply lists replace what used to be the Save/Edit list. There are now five regions depicted in the map illustration and five regions appearing as to-do lists: Send, Store, Reply, Trash, and Locate. Each list has between one and three items on it.](assets/drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png)
 
 At this point the team suddenly felt like they could see the whole of the project at a high level. All the major parts were visible at the macro level as scopes. None of them were so big that important or challenging tasks could hide inside of them unnoticed.
 
 Meanwhile, the designer had made progress on Locate. After a little wiring, they were able to mark that done. Tasks were getting done on Send and Store as well.
 
-![The region marked Locate is checked off. The list disappears on the right.](drafts_7-5e57ebc504000f0fd6a34d99f88485de703c4275c9e95c8bf0b9ffe53da52f8c.png)
+![The region marked Locate is checked off. The list disappears on the right.](assets/drafts_7-5e57ebc504000f0fd6a34d99f88485de703c4275c9e95c8bf0b9ffe53da52f8c.png)
 
 Once Send and Store were finished, just a couple tasks remained for Trash and Reply.
 
-![Send and Store are checked off. Now only Reply and Trash remain in the map and as to-do lists on the right.](drafts_8-d8ce2b945f7eaf2938bba92428fb75dc665bcda8f5ca8d629f9cc054e34a5ef8.png)
+![Send and Store are checked off. Now only Reply and Trash remain in the map and as to-do lists on the right.](assets/drafts_8-d8ce2b945f7eaf2938bba92428fb75dc665bcda8f5ca8d629f9cc054e34a5ef8.png)
 
 And then the project was done.
 
-![Every region on the map is checked off. There are no to-dos on the right.](drafts_9-06a8aa76c9f01d2311422dac7e0e88235fc7e38a68b02d4643ef87355425ab63.png)
+![Every region on the map is checked off. There are no to-dos on the right.](assets/drafts_9-06a8aa76c9f01d2311422dac7e0e88235fc7e38a68b02d4643ef87355425ab63.png)
 
 ## Discovering scopes
 
@@ -124,13 +124,13 @@ Let’s close this chapter with a few tips for dealing with different kinds of t
 
 Most software projects require some UI design and a thin layer of code below. Think of a database app where all you need to do is enter information, save it, and display it back. Work like this looks like a `layer cake`: You can judge the work by UI surface area because the back-end work is thin and evenly distributed. In these cases, you can integrate all design and programmer tasks together in the same scope. This is a good default for most “information system” type apps.
 
-![Two square planes representing front and back end are aligned in such a way that they look like a slice of cake with two layers. The 'layer cake' is drawn isometrically. On the side, a three dimensional axis is labeled. The vertical axis is labeled Effort to Build and the two horizontal axes are labeled Functionality. The slice of the cake is wide and deep and the two layers are thin.](layer_cake-df0e389ebd8bf05c90eb190e7732cbe89c107e21b927ff4cce6dd6b9a70c3184.png)
+![Two square planes representing front and back end are aligned in such a way that they look like a slice of cake with two layers. The 'layer cake' is drawn isometrically. On the side, a three dimensional axis is labeled. The vertical axis is labeled Effort to Build and the two horizontal axes are labeled Functionality. The slice of the cake is wide and deep and the two layers are thin.](assets/layer_cake-df0e389ebd8bf05c90eb190e7732cbe89c107e21b927ff4cce6dd6b9a70c3184.png)
 
 ## Icebergs
 
 But sometimes there is significantly more back-end work than UI work or vice versa. For example, a new feature that only requires submitting a form could require very complex business logic to return the right answer. This kind of work is like an iceberg.
 
-![An iceberg is drawn with the same three dimensional axis: height represents effort to build and width and depth represent funtionality. A dotted line marks the water line. The small area above the water line is marked Front End and the rest below the line is marked Back End.](iceberg-c7da94a0a02bb81ab4609822d2c03ea7bbe15966d6c19b5c786c8ece1589000b.png)
+![An iceberg is drawn with the same three dimensional axis: height represents effort to build and width and depth represent funtionality. A dotted line marks the water line. The small area above the water line is marked Front End and the rest below the line is marked Back End.](assets/iceberg-c7da94a0a02bb81ab4609822d2c03ea7bbe15966d6c19b5c786c8ece1589000b.png)
 
 For icebergs, it can help to factor out the UI as a separate scope of work (assuming the UI isn’t interdependent with the back-end complexity). If the back-end is complex enough, you can split it into separate concerns and then turn those into scopes as well. The goal in cases like this is to define some different things you can finish and integrate in stages, rather than waiting until the 11th hour with fingers crossed that it will all come together.
 

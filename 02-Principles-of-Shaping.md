@@ -1,6 +1,6 @@
 # Principles of Shaping
 
-![A vertical axis marked Abstract at the top and Concrete at the bottom. In the middle a zone is marked Shaped.](levels_of_abstraction-bf55d00941aad5a9c895d24dfefcde27572b8cf35d839155839af190f84ed815.jpg)
+![A vertical axis marked Abstract at the top and Concrete at the bottom. In the middle a zone is marked Shaped.](assets/levels_of_abstraction-bf55d00941aad5a9c895d24dfefcde27572b8cf35d839155839af190f84ed815.jpg)
 
 When we shape the work, we need to do it at the right level of abstraction: not too vague and not too concrete. Product managers often err on one of these two extremes.
 
@@ -47,7 +47,7 @@ The Dot Grid wasn’t a full-featured calendar. We weren’t going to allow drag
 
 This is the level of fidelity we used to define the solution:
 
-[![A rough sketch showing two monthly calendars side by side. Some of the days in the calendar have dots in them. Below the calendar grid, rough lines suggest a list of events.](calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png)](calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png)
+[![A rough sketch showing two monthly calendars side by side. Some of the days in the calendar have dots in them. Below the calendar grid, rough lines suggest a list of events.](assets/calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png)](assets/calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png)
 
 Rough sketch of the Dot Grid concept
 
@@ -57,7 +57,7 @@ At the same time, note how specific the idea is. It’s very clear how it works,
 
 At the end of the project, the finished work that the designers and programmers created looked like this:
 
-[![A screenshot of the final Dot Grid calendar as built in Basecamp. It has the same structure as the rough sketch but it is fully designed down to every detail.](calendar_screenshot-f8bcf5d1a0cd1642043ed106ac8b58db460e86acad341bde1a848f20fe1683a3.png)](calendar_screenshot-f8bcf5d1a0cd1642043ed106ac8b58db460e86acad341bde1a848f20fe1683a3.png)
+[![A screenshot of the final Dot Grid calendar as built in Basecamp. It has the same structure as the rough sketch but it is fully designed down to every detail.](assets/calendar_screenshot-f8bcf5d1a0cd1642043ed106ac8b58db460e86acad341bde1a848f20fe1683a3.png)](assets/calendar_screenshot-f8bcf5d1a0cd1642043ed106ac8b58db460e86acad341bde1a848f20fe1683a3.png)
 
 Screenshot of the Dot Grid when it launched
 

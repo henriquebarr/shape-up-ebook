@@ -1,6 +1,6 @@
 # The Betting Table
 
-![Cartoon. Three people sit around a table. The person in the middle is standing and presenting a document. The person on the left says: Won't that take longer than six weeks? The one presenting points to the document and says: Notif we focus on this one use case. The person on the right leans back and observes the discussion.](intro_cartoon-cb716b39a86cb267e54549f739854b7c7b768da7316b8b0c495deba2805ccb10.png)
+![Cartoon. Three people sit around a table. The person in the middle is standing and presenting a document. The person on the left says: Won't that take longer than six weeks? The one presenting points to the document and says: Notif we focus on this one use case. The person on the right leans back and observes the discussion.](assets/intro_cartoon-cb716b39a86cb267e54549f739854b7c7b768da7316b8b0c495deba2805ccb10.png)
 
 Now that we have some good potential bets in the form of pitches, it’s time to make decisions about which projects to schedule.
 

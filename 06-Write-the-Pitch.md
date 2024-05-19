@@ -1,6 +1,6 @@
 # Write the Pitch
 
-![Cartoon. A person stands in front of a wall covered in countless sticky notes. A thought bubble above the person says: This is ridiculous. We'll never get all this done.](intro_cartoon-562591e3436e67b04d32287bdc7ff45bfcdb284bfec3ac9a42c14e04f8ab9025.png)
+![Cartoon. A person stands in front of a wall covered in countless sticky notes. A thought bubble above the person says: This is ridiculous. We'll never get all this done.](assets/intro_cartoon-562591e3436e67b04d32287bdc7ff45bfcdb284bfec3ac9a42c14e04f8ab9025.png)
 
 Now that we’ve written a pitch, where does it go? It doesn’t go onto a backlog.
 

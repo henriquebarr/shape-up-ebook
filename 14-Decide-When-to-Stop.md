@@ -1,6 +1,6 @@
 # Decide When to Stop
 
-![Cartoon. A figure sits in front of a laptop holding their hand in one hand and sweating. A calendar on the wall shows a deadline three two days away. Staring into the laptop, the figure asks in a thought bubble: Is it good enough?](intro_cartoon-05df8762bc8fd85d9569643ebce62197e9326bd1fc4bf3c3a89faec8f94eae81.png)
+![Cartoon. A figure sits in front of a laptop holding their hand in one hand and sweating. A calendar on the wall shows a deadline three two days away. Staring into the laptop, the figure asks in a thought bubble: Is it good enough?](assets/intro_cartoon-05df8762bc8fd85d9569643ebce62197e9326bd1fc4bf3c3a89faec8f94eae81.png)
 
 When the end of the cycle approaches, the techniques we covered so far will put the team in a good position to finish and ship. The shaped work gave them guard rails to prevent them from wandering. They integrated one scope at a time so there isn’t half-finished work lying around. And all the most important problems have been solved because they prioritized those unknowns first when they sequenced the work.
 
@@ -16,7 +16,7 @@ It helps to shift the point of comparison. Instead of comparing up against the i
 
 Seeing that our work so far is better than the current alternatives makes us feel better about the progress we’ve made. This motivates us to make calls on the things that are slowing us down. It’s less about us and more about value for the customer. It’s the difference between “never good enough” and “better than what they have now.” We can say “Okay, this isn’t perfect, but it definitely works and customers will feel like this is a big improvement for them.”
 
-[![A chart with performance on the Y axis and development time on the X axis. A line curves upward from zero performance at the beginning of development time to about halfway up the y axis when it reaches the middle of the chart and terminates in a dot. The x axis below the dot is labeld: Now. Horizontal lines divide the Y axis into three regions. In the bottom third, below the dot of the current position, a dotted line is labeled: Baseline. At the top of the chart, above the dot, a line is labeled: Ideal. The Y value of the dot is labeled: Work in progress. An arrow points down from the dot to the baseline with the label: Compare down. Another arrow points up from the dot to the ideal line and says: Not up.](compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg)](compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg)
+[![A chart with performance on the Y axis and development time on the X axis. A line curves upward from zero performance at the beginning of development time to about halfway up the y axis when it reaches the middle of the chart and terminates in a dot. The x axis below the dot is labeld: Now. Horizontal lines divide the Y axis into three regions. In the bottom third, below the dot of the current position, a dotted line is labeled: Baseline. At the top of the chart, above the dot, a line is labeled: Ideal. The Y value of the dot is labeled: Work in progress. An arrow points down from the dot to the baseline with the label: Compare down. Another arrow points up from the dot to the ideal line and says: Not up.](assets/compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg)](assets/compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg)
 
 Make scope cuts by comparing down to baseline instead of up to some perfect ideal
 
@@ -61,7 +61,7 @@ The fixed deadline motivates us to ask these questions. Variable scope enables u
 
 Throughout the cycle, you’ll hear our teams talking about `must-haves` and `nice-to-haves` as they discover work. The must-haves are captured as tasks on the scope. The scope isn’t considered “done” until those tasks are finished. Nice-to-haves can linger on a scope after it’s considered done. They’re marked with a tilde (~) in front. Those tasks are things to do if the team has extra time at the end and things to cut if they don’t. Usually they never get built. The act of marking them as a nice-to-have is the scope hammering.
 
-[![Screenshot of a to-do list in Basecamp for a scope. All the items are checked off except for one. The one oustanding item is marked with a tilde at the front.](scope_with_maybes-1838d92cd3c87917932716ef6baaad023b5b968af9d3f316d257c5f08a3a71f8.png)](scope_with_maybes-1838d92cd3c87917932716ef6baaad023b5b968af9d3f316d257c5f08a3a71f8.png)
+[![Screenshot of a to-do list in Basecamp for a scope. All the items are checked off except for one. The one oustanding item is marked with a tilde at the front.](assets/scope_with_maybes-1838d92cd3c87917932716ef6baaad023b5b968af9d3f316d257c5f08a3a71f8.png)](assets/scope_with_maybes-1838d92cd3c87917932716ef6baaad023b5b968af9d3f316d257c5f08a3a71f8.png)
 
 A finished scope with one `nice-to-have` (marked with a “~”) that was never completed
 
@@ -69,7 +69,7 @@ A finished scope with one `nice-to-have` (marked with a “~”) that was never 
 
 At Basecamp’s current size (millions of users and about a dozen people on the product team), we have one QA person. They come in toward the end of the cycle and hunt for edge cases outside the core functionality.
 
-QA can limit their attention to edge cases because the designers and programmers take responsibility for the basic quality of their work. Programmers write their own tests, and the team works together to ensure the project does what it should according to what was shaped. This follows from giving the team responsibility for the whole project instead of assigning them individual tasks (see Chapter 9, [Hand Over Responsibility](https://basecamp.com/shapeup/3.1-chapter-10)).
+QA can limit their attention to edge cases because the designers and programmers take responsibility for the basic quality of their work. Programmers write their own tests, and the team works together to ensure the project does what it should according to what was shaped. This follows from giving the team responsibility for the whole project instead of assigning them individual tasks (see Chapter 9, [Hand Over Responsibility](3.1-chapter-10)).
 
 For years we didn’t have a QA role. Then after our user base grew to a certain size, we saw that small edge cases began to impact hundreds or thousands of users in absolute numbers. Adding the extra QA step helped us improve the experience for those users and reduce the disproportional burden they would create for support.
 
@@ -89,4 +89,4 @@ Second, the outstanding work must be all `downhill`. No unsolved problems; no op
 
 Even if the conditions are met to consider extending the project, we still prefer to be disciplined and enforce the `appetite` for most projects. The two-week `cool-down` usually provides enough slack for a team with a few too many `must-haves` to ship before the next cycle starts. But this shouldn’t become a habit. Running into cool-down either points back to a problem in the shaping process or a performance problem with the team.
 
-[Move On →](https://basecamp.com/shapeup/3.6-chapter-15)
+[Move On →](3.6-chapter-15)
