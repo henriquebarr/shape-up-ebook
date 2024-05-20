@@ -9,7 +9,7 @@
 ---
 
 - [English version](/en/0.0-shape-up.md)
-- [Portuguese version - WIP]()
+- [Portuguese version](/pt-br/0.0-shape-up.md)
 
 ---
 
